@@ -1,0 +1,25 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "4.17",
+  "Category": "",
+  "Description": "",
+  "Modules": [
+    {
+      "Name": "Delegateframwork",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "AdditionalDependencies": [
+        "Engine"
+      ]
+    },
+    {
+      "Name": "ManagerModule",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "AdditionalDependencies": [
+        "Engine"
+      ]
+    }
+  ]
+  
+}
